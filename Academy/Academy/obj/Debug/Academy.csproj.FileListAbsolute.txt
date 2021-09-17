@@ -1,0 +1,131 @@
+C:\Users\Eight8\Desktop\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.pdb
+C:\Users\Eight8\Desktop\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\Eight8\Desktop\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmLogin.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.Properties.Resources.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.csproj.GenerateResource.Cache
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmRecoveryPassword.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmMain.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddUser.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeleteUser.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddStudent.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeleteStudent.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmUpdateStudent.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddTeacher.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeleteTeacher.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmUpdateTeacher.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmTeacherList.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmStudentList.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddGroup.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeleteGroup.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddLesson.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeleteLesson.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmUpdateLesson.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmLessonList.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddSelected.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeleteSelected.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSelectedList.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmUpdateSelected.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAddPecunary.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmDeletePecunari.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAllPecunari.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmUpdatePcuniary.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSearchStudent.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSearchSelected.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSearchLesson.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSearchTeacher.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSearchUser.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSearchPecuniray.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmSetting.resources
+C:\Users\Eight8\Desktop\Academy\Academy\obj\Debug\Academy.frmAbout.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.pdb
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAbout.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddGroup.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddLesson.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddPecunary.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddSelected.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddStudent.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddTeacher.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAddUser.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmAllPecunari.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeleteGroup.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeleteLesson.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeletePecunari.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeleteSelected.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeleteStudent.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeleteTeacher.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmDeleteUser.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmLessonList.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmLogin.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmMain.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmRecoveryPassword.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSearchLesson.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSearchPecuniray.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSearchSelected.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSearchStudent.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSearchTeacher.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSearchUser.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSelectedList.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmSetting.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmStudentList.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmTeacherList.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmUpdateLesson.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmUpdatePcuniary.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmUpdateSelected.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmUpdateStudent.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.frmUpdateTeacher.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.Properties.Resources.resources
+C:\Users\Eight8\Desktop\File For Academy Project\Academy\Academy\obj\Debug\Academy.csproj.GenerateResource.Cache
+C:\Users\Ashkan\Pictures\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\Ashkan\Pictures\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\Ashkan\Pictures\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.csprojAssemblyReference.cache
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAbout.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddGroup.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddLesson.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddPecunary.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddSelected.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddStudent.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddTeacher.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAddUser.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmAllPecunari.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeleteGroup.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeleteLesson.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeletePecunari.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeleteSelected.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeleteStudent.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeleteTeacher.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmDeleteUser.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmLessonList.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmLogin.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmMain.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmRecoveryPassword.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSearchLesson.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSearchPecuniray.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSearchSelected.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSearchStudent.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSearchTeacher.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSearchUser.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSelectedList.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmSetting.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmStudentList.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmTeacherList.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmUpdateLesson.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmUpdatePcuniary.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmUpdateSelected.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmUpdateStudent.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.frmUpdateTeacher.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.Properties.Resources.resources
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.csproj.GenerateResource.cache
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.csproj.CopyComplete
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\Ashkan\Pictures\Academy\Academy\obj\Debug\Academy.pdb
